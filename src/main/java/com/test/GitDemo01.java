@@ -10,5 +10,6 @@ public class GitDemo01 {
         System.out.println("git测试！push hot-fix2");
         System.out.println("git测试！pull codeTest!");
         System.out.println("git测试！push gitee codeTest!");
+        System.out.println("git测试,导入到gitee!!!!!!");
     }
 }
